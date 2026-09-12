@@ -1,6 +1,6 @@
 # 🪔 Diwali Sales Analysis – Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.2-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
