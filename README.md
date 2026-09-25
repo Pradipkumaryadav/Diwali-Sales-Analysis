@@ -110,6 +110,8 @@ df['Amount'] = df['Amount'].astype(int)
 
 The analysis compares the number of buyers and total purchasing amount between male and female customers.
 
+<img width="750" height="323" alt="Screenshot 2026-09-25 111136" src="https://github.com/user-attachments/assets/dac0f8ce-4d7a-493a-8d94-04caf8dacf24" />
+
 ### Finding
 
 Female customers represent the larger share of buyers and also contribute substantially more to total sales than male customers.
@@ -120,6 +122,10 @@ In the cleaned dataset:
 * Male customers: **3,407**
 * Female sales: approximately **₹74.34 million**
 * Male sales: approximately **₹31.91 million**
+
+
+<img width="1090" height="427" alt="image" src="https://github.com/user-attachments/assets/a92e08c0-7efd-4c42-99c0-52945059d47f" />
+
 
 This indicates that female customers were the dominant purchasing group in the dataset.
 
@@ -134,6 +140,9 @@ Customer purchasing behavior was analyzed across different age groups.
 The **26–35 age group** is the strongest customer segment.
 
 The 26–35 age group generated approximately **₹42.61 million** in sales, making it the highest-sales age group in the dataset.
+
+<img width="712" height="323" alt="Screenshot 2026-09-25 111416" src="https://github.com/user-attachments/assets/b21c18e5-86ca-4920-91b2-7ca630ed2629" />
+
 
 This segment should therefore receive particular attention when developing customer-targeted marketing campaigns.
 
@@ -153,9 +162,15 @@ The leading states include:
 4. Delhi
 5. Madhya Pradesh
 
+<img width="777" height="394" alt="Screenshot 2026-09-25 111717" src="https://github.com/user-attachments/assets/a706fb09-fb2a-4422-8344-02ea3ac3eb82" />
+   
+
 ### Finding
 
 **Uttar Pradesh, Maharashtra, and Karnataka** are among the strongest-performing states in terms of both orders and sales.
+
+<img width="759" height="300" alt="Screenshot 2026-09-25 112003" src="https://github.com/user-attachments/assets/91539bbc-1d9a-4298-b4ee-b39e3982d805" />
+
 
 Uttar Pradesh generated approximately **₹19.37 million** in sales in the cleaned dataset.
 
@@ -168,6 +183,10 @@ The project analyzes purchasing behavior based on customer marital status and ge
 ### Finding
 
 The analysis indicates that married customers, particularly women, form an important customer segment and demonstrate strong purchasing activity.
+
+
+<img width="791" height="332" alt="Screenshot 2026-09-25 112305" src="https://github.com/user-attachments/assets/eac56590-30f4-4f58-bb14-9eb2d4bdd7df" />
+
 
 This suggests that family-oriented promotions and targeted offers could be useful during major festive shopping periods.
 
@@ -185,9 +204,14 @@ Customer occupations were analyzed to understand which professional groups contr
 4. Banking
 5. Government
 
+   <img width="755" height="352" alt="image" src="https://github.com/user-attachments/assets/ef515bf4-5494-4129-a79a-1c63349e7d75" />
+
+
 ### Finding
 
 Customers working in the **IT, Healthcare, and Aviation sectors** represent some of the strongest purchasing groups in the dataset.
+
+<img width="758" height="355" alt="Screenshot 2026-09-25 112501" src="https://github.com/user-attachments/assets/a539006c-4eb2-4242-98e9-360191ed4406" />
 
 The IT sector generated approximately **₹14.76 million** in sales.
 
@@ -204,10 +228,14 @@ Product categories were analyzed based on sales and order volume.
 3. Electronics & Gadgets
 4. Footwear & Shoes
 5. Furniture
+   
+<img width="759" height="351" alt="Screenshot 2026-09-25 112647" src="https://github.com/user-attachments/assets/e0d0683d-97c3-4f04-9d4a-5b9f45849f92" />
 
 ### Finding
 
 **Food, Clothing & Apparel, and Electronics & Gadgets** are among the strongest product categories in terms of sales.
+
+<img width="752" height="361" alt="image" src="https://github.com/user-attachments/assets/502ffef8-37b0-410c-9e43-122288d22781" />
 
 Food generated approximately **₹33.93 million** in sales, making it the highest-sales product category in the cleaned dataset.
 
@@ -216,6 +244,9 @@ Food generated approximately **₹33.93 million** in sales, making it the highes
 ## 7. Product-Level Analysis
 
 The project also identifies the top products based on the number of orders.
+
+<img width="754" height="349" alt="image" src="https://github.com/user-attachments/assets/e9259182-6baa-4e21-901d-49b28070d60d" />
+
 
 The analysis uses product-level aggregation to identify frequently ordered products and understand customer product preferences.
 
